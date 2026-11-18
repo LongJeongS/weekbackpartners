@@ -1,32 +1,39 @@
-# Week Back Partners
+# Weekback Partners
 
-> Fractional COO in Toronto. Jeong Park maps how your company's work really moves and rebuilds the slow parts with AI, so your best people get their time back.
+> I work with high-impact organizations to educate, strategize, plan and execute their AI journey.
 
-I map how work really moves through your company and rebuild the slow parts with AI, so your people spend their week on the work only they can do.
+Jeong Park, based in Toronto, Ontario. Contact: jeongpark95@gmail.com. LinkedIn: https://www.linkedin.com/in/jeongwpark
 
-Based in Toronto, Ontario. Contact: jeongpark95@gmail.com. LinkedIn: https://www.linkedin.com/in/jeongwpark
+## Ways to get started
+- AI strategy session. Deep discussions with your leadership to understand your goals and priorities, plan how and where AI can fit, and build out a roadmap.
+- Team training. Help your team put AI to work. Uplevel your organization's understanding of AI and how it can deliver impact in different departments.
+- Building. Have a problem in mind? Start with the problem, and build the right AI-driven product or workflow.
+- Ongoing, by the month. Support and new projects as your work evolves.
 
-## Track record
-- 10+ years: in operating seats, from first hire to acquisition
-- 5 functions: built and led from day one, across engineering, product, sales, operations and people
-- $0 → $1M+: in annual revenue within 12 months, the third revenue line I've built from zero
-- 100+ person org: mapped end to end, so every team works from the same process and the slow parts get rebuilt
+## How I work
+- Goals: A build order tied to this year's goals. A working session with leadership starts from what the organization is trying to achieve this year and works back to where AI would move it. The session ends with an agreed order for what gets built.
+- Map: Every process on one page, each with a written procedure. Each team answers a short AI-led chat interview, with follow-up questions that adapt to what they say. Together with a review of the documents you already have, it shows how the work really moves, so everyone can see where it gets stuck and agree on what to change first.
+- Train: A team that uses AI on its own work. Sessions are built around each team's real tasks, including reviewing AI's answers and spotting what is wrong with them, so people leave knowing where AI helps in their job and where it should be left alone. Each session goes through the tools at your disposal, with optional hands-on training, all within your organization's policy.
+- Data: One set of records every team works from. Reconciling your data is the foundation that any agentic work is built on top of. Competing spreadsheets and half-used systems become one source, with a view for each team that shows only what it needs.
+- Build: The right solution to the right problem. Not every problem needs the same kind of build, so the problem decides the form. Nothing goes out until someone on your team approves it, and I build inside the tools you already have wherever that is possible.
+- Keep improving: It keeps improving as your work evolves. I stay on for support and take on the next project as priorities change. Your team is trained to run what gets built, so it keeps working whether I am in the room or not.
 
-Worked at: OV Loop (fintech), Cultos (loyalty tech, acquired), Toronto Climate Week (100+ volunteers), Authenticiti (enterprise software).
-
-## Where I usually come in
-- We doubled, and every decision still goes through the founder. As COO of a funded startup, I set company-wide goals, hired a head of people operations, and grew the team from 10 to over 20 in six months.
-- We've grown, but the way we work hasn't caught up. I map how work actually moves before changing anything, so everyone can see where it gets stuck and agree on what to change first.
-- Good people spend their week on work a system should be doing. I find where the hours go, redesign the work, and automate what's left, keeping a person on the decisions that matter. Sometimes the right call is to leave something alone, like a 4,100-person database import we chose not to do.
-- We bought AI tools, and nobody really uses them. I start from the work instead of the tool, build with the people who will use it, and train them until it's part of their week. If a tool isn't earning its place, I'll say so.
-
-## How an engagement runs
-1. I learn how your company really runs. For the first few weeks I follow real work from start to finish and map who talks to whom and where information gets stuck.
-2. We pick what's worth changing. You get a short list of the bottlenecks that cost the most time, the ones AI can take on, and the ones I'd leave exactly as they are.
-3. I build the tools with your team. Research and data entry move to AI tools your people use every day, so their week goes to the parts of the job that need a person.
-4. Your team takes it over. Everything is documented and your people are trained to run it, so it keeps working whether I'm in the room or not.
-
-Price: From CAD 10K a month. I work with a small number of companies at a time so I can be inside the work. We start with three months, then go month to month. If the first month doesn't produce something your team uses, you can stop.
+## Toolbox
+- AI-led interviews: Every team is interviewed in parallel, with follow-up questions that adapt to each answer. You see how the work really moves without weeks of meetings.
+- Agents for recurring work: Agents that pick up recurring work by themselves, such as a signed deal creating the contract, the invoice and each team's tasks. Every run is logged, and nothing goes out until someone on your team approves it.
+- Go-to-market engine: One engine for several go-to-market channels, each with a written playbook, a spend cap and an approval step at set checkpoints. I run this one for my own business.
+- Chat agents: Answers for staff or customers, drawn from your own material. Each answer shows where it came from.
+- Data and process map: Records and documents are gathered, cleaned and reconciled, with someone on your team checking the merges. Every process ends up on one page with its written procedure.
+- Dashboards and reporting: A view for each team that shows only what it needs. Reports are built straight from your own data.
 
 ## Case studies
 - Toronto Climate Week: https://weekbackpartners.com/case-studies/toronto-climate-week/
+
+## Questions
+- What kind of organizations do you work with? From startups and established enterprises to professional services firms and non-profits. What they share is a team that is stretched and work that has outgrown the way it gets done.
+- Do we need to know where to start? No. Bring a task that takes too long, a recurring frustration or an idea, and we work out together whether strategy, training or a build is the right fit.
+- Who would we be working with? You work with me directly, from the first call through to the build.
+- Do we have to change the tools we use? I try to keep to the tools you already have and the ecosystems you are part of. If something more is needed, we decide together whether to build it or buy it.
+- How is our data handled? Your data stays in your systems. In practice: I work inside your own accounts, with access you grant and can switch off at any time. AI runs only on business plans whose terms exclude training on your data. Nothing goes into a consumer chat tool. The AI is given only what a task needs, and builds are tested on sample data before they touch real records. Nothing leaves your systems until someone on your team approves it, and every automated run is logged. We sign a confidentiality and data agreement before work starts, and access is removed when it ends.
+- How long until something is running? For a build, the aim is something your team is using within the first month. A strategy session or team training can be scheduled sooner.
+- What does it cost? It depends on where you start. The strategy session and team training are fixed price, a build is priced once it is scoped, and ongoing support is monthly. Book a call and we will scope it around what you need.
